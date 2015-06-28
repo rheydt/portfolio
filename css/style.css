@@ -6,6 +6,9 @@ body {
   padding-top: 70px;
   background-color: #232C38;
 }
+header {
+  background: white;
+}
 footer {
   padding: 30px 0;
 }
